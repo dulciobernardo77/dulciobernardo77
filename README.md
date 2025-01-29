@@ -1,5 +1,3 @@
-<p align="left">dulciobernardo77</p>
-
 ###
 
 <p align="center">Excessively driven developer, constantly labouring on self-improvement and supporting others.</p>
