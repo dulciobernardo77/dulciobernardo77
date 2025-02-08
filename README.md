@@ -32,6 +32,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em soluções eficiente
 
 ### Contato
 
-- 📫 **Email:** [seu-email@exemplo.com](mailto:dulciobernardo80@gmail.com)
-- 💼 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/d%C3%BAlcio-bernardo-b107492b9/)
-- 🌐 **Portfólio:** [Meu Portfólio](https://github.com/dulciobernardo77/dulciobernardo77)
+- 📫 **Email:** [dulciobernardo80@gmail.com](mailto:dulciobernardo80@gmail.com)
+- 💼 **LinkedIn:** [dulciobernardo7](https://www.linkedin.com/in/d%C3%BAlcio-bernardo-b107492b9/)
+- 🌐 **Portfólio:** [dulciobernardo7](https://github.com/dulciobernardo77/dulciobernardo77)
