@@ -66,12 +66,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com um forte compromisso com o a
 
 ---
 
-## 🌟 Filosofia de Trabalho
-
-Acredito que a tecnologia deve ser usada para resolver problemas reais e melhorar a vida das pessoas. Meu objetivo é sempre aprender, crescer e contribuir para projetos que façam a diferença. Estou sempre aberto a novas oportunidades e desafios que me permitam expandir meus conhecimentos e habilidades.
-
----
-
 <p align="center">
   <i>Vamos construir algo incrível juntos!</i> 🚀
 </p>
