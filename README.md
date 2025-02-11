@@ -1,6 +1,7 @@
 
-
-
+ <p align="center">
+  <strong>Desenvolvedor altamente dedicado, focado no aprimoramento contínuo e na colaboração para alcançar excelência técnica.</strong>
+</p>
 
 ---
 
@@ -49,7 +50,3 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 - 📧 **Email:** [dulciobernardo80@gmail.com](mailto:dulciobernardo80@gmail.com)
 - 💼 **LinkedIn:** [dulciobernardo7](https://www.linkedin.com/in/d%C3%BAlcio-bernardo-b107492b9/)
 - 🌐 **Portfólio:** [dulciobernardo7](https://github.com/dulciobernardo77)
-
-  <p align="center">
-  <strong>Desenvolvedor altamente dedicado, focado no aprimoramento contínuo e na colaboração para alcançar excelência técnica.</strong>
-</p>
