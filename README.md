@@ -53,9 +53,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com um forte compromisso com o a
 
 ## 🏆 Projetos Destacados
 
-- **[Nome do Projeto 1](link)** - Breve descrição do projeto e do seu papel nele.
-- **[Nome do Projeto 2](link)** - Breve descrição do projeto e do seu papel nele.
-- **[Nome do Projeto 3](link)** - Breve descrição do projeto e do seu papel nele.
+- **[Plataforma de curso online](link)** -.
+- **[Sistema de gestao para uma empresa de Eletricidade](link)** -.
 
 ---
 
