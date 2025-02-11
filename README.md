@@ -1,13 +1,13 @@
-
- <p align="center">
-  <strong>Desenvolvedor altamente dedicado, focado no aprimoramento contínuo e na colaboração para alcançar excelência técnica.</strong>
+<p align="center">
+  <strong>Desenvolvedor apaixonado por tecnologia, focado em soluções inovadoras e colaboração para alcançar excelência técnica.</strong>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de aprimoramento contínuo. Tenho experiência em diversas linguagens e ferramentas, focando em criar soluções eficientes e escaláveis. Acredito no poder do trabalho em equipe e na importância da colaboração para impulsionar o desenvolvimento de projetos de alto impacto.
+Sou um desenvolvedor apaixonado por tecnologia, com um forte compromisso com o aprendizado contínuo e a busca por soluções eficientes e escaláveis. Minha experiência abrange diversas linguagens de programação e ferramentas, sempre com o objetivo de entregar projetos de alta qualidade e impacto. Acredito no poder da colaboração e no trabalho em equipe para superar desafios e alcançar resultados excepcionais.
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -21,7 +21,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ## 🚀 Habilidades Técnicas
 
-###
+### Linguagens e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -41,7 +41,21 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+### Competências
+
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Linguagens de Programação:** C, JavaScript
+- **Ferramentas de Controle de Versão:** Git
+- **Sistemas Operacionais:** Linux
+- **Editores de Texto:** Vim
+
+---
+
+## 🏆 Projetos Destacados
+
+- **[Nome do Projeto 1](link)** - Breve descrição do projeto e do seu papel nele.
+- **[Nome do Projeto 2](link)** - Breve descrição do projeto e do seu papel nele.
+- **[Nome do Projeto 3](link)** - Breve descrição do projeto e do seu papel nele.
 
 ---
 
@@ -50,3 +64,15 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 - 📧 **Email:** [dulciobernardo80@gmail.com](mailto:dulciobernardo80@gmail.com)
 - 💼 **LinkedIn:** [dulciobernardo7](https://www.linkedin.com/in/d%C3%BAlcio-bernardo-b107492b9/)
 - 🌐 **Portfólio:** [dulciobernardo7](https://github.com/dulciobernardo77)
+
+---
+
+## 🌟 Filosofia de Trabalho
+
+Acredito que a tecnologia deve ser usada para resolver problemas reais e melhorar a vida das pessoas. Meu objetivo é sempre aprender, crescer e contribuir para projetos que façam a diferença. Estou sempre aberto a novas oportunidades e desafios que me permitam expandir meus conhecimentos e habilidades.
+
+---
+
+<p align="center">
+  <i>Vamos construir algo incrível juntos!</i> 🚀
+</p>
