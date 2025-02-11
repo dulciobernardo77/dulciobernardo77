@@ -1,7 +1,8 @@
-<p align="center">
-  <strong>Desenvolvedor altamente dedicado, focado no aprimoramento contínuo e na colaboração para alcançar excelência técnica.</strong>
-</p>
+---
 
+## 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de aprimoramento contínuo. Tenho experiência em diversas linguagens e ferramentas, focando em criar soluções eficientes e escaláveis. Acredito no poder do trabalho em equipe e na importância da colaboração para impulsionar o desenvolvimento de projetos de alto impacto.
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -39,14 +40,12 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de aprimoramento contínuo. Tenho experiência em diversas linguagens e ferramentas, focando em criar soluções eficientes e escaláveis. Acredito no poder do trabalho em equipe e na importância da colaboração para impulsionar o desenvolvimento de projetos de alto impacto.
-
----
-
 ## 📬 Contato
 
 - 📧 **Email:** [dulciobernardo80@gmail.com](mailto:dulciobernardo80@gmail.com)
 - 💼 **LinkedIn:** [dulciobernardo7](https://www.linkedin.com/in/d%C3%BAlcio-bernardo-b107492b9/)
 - 🌐 **Portfólio:** [dulciobernardo7](https://github.com/dulciobernardo77)
+
+  <p align="center">
+  <strong>Desenvolvedor altamente dedicado, focado no aprimoramento contínuo e na colaboração para alcançar excelência técnica.</strong>
+</p>
