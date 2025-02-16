@@ -1,7 +1,3 @@
-<p align="center">
-  <strong>Desenvolvedor apaixonado por tecnologia, focado em soluções inovadoras e colaboração para alcançar excelência técnica.</strong>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre Mim
