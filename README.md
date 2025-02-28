@@ -1,4 +1,4 @@
----
+
 
 ## 👨‍💻 Sobre Mim
 
@@ -8,9 +8,9 @@ Sou um desenvolvedor apaixonado por tecnologia, com um forte compromisso com o a
 
 ## 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulciobernardo77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulciobernardo77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulciobernardo77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulciobernardo77&layout=compact&theme=dracula&langs_count=6" height="165" alt="Most Used Languages" />
 </div>
 
 ---
